@@ -1,6 +1,6 @@
 # hexo-asset-image-fix
 
-Fork [hexo-asset-image](https://github.com/CodeFalling/hexo-asset-image),fixed image path not using root path in hexo configuration.
+Fork [hexo-asset-image](https://github.com/CodeFalling/hexo-asset-image),fixed an issue where the image path did not use the root path in the hexo configuration.
 
 Give asset image in hexo a absolutely path automatically
 
